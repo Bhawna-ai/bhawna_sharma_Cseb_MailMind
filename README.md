@@ -15,7 +15,7 @@ The primary goal of MailMind is to provide a foundation for building productivit
 
 ## Video Explanation
 
-drive link
+https://drive.google.com/file/d/1-cKJVC69zLp0Mqa2-fnqSAm4zrf44KNR/view?usp=sharing
 
 ## Technologies Used
 
