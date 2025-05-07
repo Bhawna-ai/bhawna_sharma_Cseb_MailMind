@@ -32,15 +32,20 @@ https://mailmindproject.netlify.app/
 
 ## Steps to Run/Execute the Project
 
-### Prerequisites
 
-- Node.js installed on your machine.
-- npm (comes bundled with Node.js).
+1. Make sure Node.js and npm are installed on your system.
 
-### Installation
+2. Clone the project repository using:
+git clone https://github.com/Bhawna-ai/bhawna_sharma_Cseb_MailMind.git
 
-1. Clone the Repository
+3. Navigate to the project folder:
+cd bhawna_sharma_Cseb_MailMind
 
-   ```bash
-   git clone https://github.com/Bhawna-ai/bhawna_sharma_Cseb_MailMind.git
-   cd bhawna_sharma_Cseb_MailMind
+4. Install dependencies using:
+npm install
+
+5. Start the development server:
+npm run dev
+
+6. Open your browser and go to:
+http://localhost:5173
